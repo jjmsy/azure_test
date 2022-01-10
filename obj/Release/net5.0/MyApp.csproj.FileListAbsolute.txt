@@ -1,0 +1,16 @@
+D:\MyApp\bin\Release\net5.0\MyApp.exe
+D:\MyApp\bin\Release\net5.0\MyApp.deps.json
+D:\MyApp\bin\Release\net5.0\MyApp.runtimeconfig.json
+D:\MyApp\bin\Release\net5.0\MyApp.runtimeconfig.dev.json
+D:\MyApp\bin\Release\net5.0\MyApp.dll
+D:\MyApp\bin\Release\net5.0\ref\MyApp.dll
+D:\MyApp\bin\Release\net5.0\MyApp.pdb
+D:\MyApp\obj\Release\net5.0\MyApp.csproj.AssemblyReference.cache
+D:\MyApp\obj\Release\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApp\obj\Release\net5.0\MyApp.AssemblyInfoInputs.cache
+D:\MyApp\obj\Release\net5.0\MyApp.AssemblyInfo.cs
+D:\MyApp\obj\Release\net5.0\MyApp.csproj.CoreCompileInputs.cache
+D:\MyApp\obj\Release\net5.0\MyApp.dll
+D:\MyApp\obj\Release\net5.0\ref\MyApp.dll
+D:\MyApp\obj\Release\net5.0\MyApp.pdb
+D:\MyApp\obj\Release\net5.0\MyApp.genruntimeconfig.cache
